@@ -1,9 +1,0 @@
-git --version
-git init
-git config --global user.name "sasikumar"
-git config --global user.email "sasikumar.b@gmail.com"
-git add .     //moving to staging area
-git status    
-git commit -m "this is first commit"
-git log
-
