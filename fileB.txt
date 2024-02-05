@@ -1,2 +1,1 @@
 this is file B
-this the new change for fileb
